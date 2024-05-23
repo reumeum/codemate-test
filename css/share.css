@@ -76,8 +76,20 @@ a {
 }
 
 
+/*-----------개인설정-------------*/
+
 /*프로필 사진*/
 .profile-photo {
 	width: 40px;
 	border-radius: 50px;
+}
+
+/*하드스킬 로고*/
+.skill-logo {
+	width: 30px;
+	border-radius: 50px;
+}
+
+div, ul {
+	margin: 30px 10px;
 }
